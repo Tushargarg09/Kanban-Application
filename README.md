@@ -13,13 +13,13 @@ A responsive and customizable **Kanban Board application** for visual task manag
 
 ## 📸 Screenshots
 
--Dashboard(Light Theme)
+- Dashboard(Light Theme)
 ![image](https://github.com/user-attachments/assets/182f5b45-cd64-4d2a-9be8-93f487a44882)
--Board View(Dark Theme)
+- Board View(Dark Theme)
 ![image](https://github.com/user-attachments/assets/d8605ee9-de32-4125-8510-4ca3dd8c6791)
--Login
+- Login
 ![image](https://github.com/user-attachments/assets/29a2b075-3bcd-4f30-8cde-4d2f55899ee3)
--Profile Settings
+- Profile Settings
 ![image](https://github.com/user-attachments/assets/637f4b62-c84e-4b4e-9095-0d65067acf87)
 
 
